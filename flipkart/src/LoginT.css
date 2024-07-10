@@ -1,0 +1,47 @@
+.logint__in,
+.moret__in{
+    display: flex;
+    align-items: center;
+    padding: 0px 7px;
+    gap: 8px;
+}
+.logint__in > .MuiSvgIcon-root
+.moret__in > .MuiSvgIcon-root{
+    margin-right: 10px;
+   
+    color: #2874f0  ;
+}
+.logint__in
+{
+    background-color: black;
+    width:250px;
+    height: auto;
+    
+    
+}
+.logint__in > img{
+    margin-right: 10px;
+    background-color:rgb(233,233,233);
+    color: #2874f0;
+    align-items: center;
+}
+.logint > hr,
+.moret> hr{
+    margin-left: -10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 108.5%;
+    height: 0.5px;
+    background-color: rgb(233,233,233);
+    border: none;
+    color: #2874f0;
+    align-items: center;
+    justify-content: center;
+
+}
+.logint__in:hover,
+.moret__in:hover{
+    color: rgb(245,243,243);
+    cursor: pointer;
+}
+
